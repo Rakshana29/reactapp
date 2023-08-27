@@ -1,0 +1,11 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.right{
+    float: right;
+}
+ul li{
+    display: inline-block;
+    margin: 10px;
+}
